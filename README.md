@@ -3,7 +3,7 @@
 
  TASK 1
 
- !(imgs/Staging.png)
+![plot](imgs/Staging.png)
 
-!(imgs/Output.png)
+![plot](imgs/Output.png)
 
